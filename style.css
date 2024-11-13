@@ -1,0 +1,39 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 100px;
+    color: black;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container1 img {
+    height: 500x;
+    width: 500px;
+    margin-bottom: 10px; /* Jarak antar gambar */
+}
+
+.container2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container2 img {
+    height: 600x;
+    width: 500px;
+    margin-bottom: 10px; /* Jarak antar gambar */
+}
